@@ -6,7 +6,7 @@
 > Play games with PS2-USB. Requires a pre chip installed, jailbreaked PS2.(The Memory Stick)
 
 > [!WARNING]
->Download. Extract. Copy entire content of the PS2-USB folder to FAT-32 formatted USB Drive.
+>Download. Extract. Copy entire content of the PS2-USB folder to FAT-32 formatted USB Drive. Then install game.
 
 > [!CAUTION]
 > I did not coded any of this. Do not create any issues in this repo.
