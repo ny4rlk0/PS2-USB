@@ -9,4 +9,4 @@
 >Download. Extract. Copy entire content of the PS2-USB folder to FAT-32 formatted USB Drive. Then install game.
 
 > [!CAUTION]
-> I did not coded any of this. Do not create any issues in this repo.
+> I did not coded any of this. Do not create any issues in this repo. You can use this with magicgate memory stick exploit.
